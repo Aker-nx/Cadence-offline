@@ -1,3 +1,19 @@
 # Cadence-offline
 Cadence is a fully offline music player that takes a mp3 file and puts it into your library and is playable at anytime anywhere even with no internet!
-how to download:
+**how to download:**
+
+**Step one**
+
+**go to any hosting website like fastly, netlify, or github pages.**
+
+**step two**
+
+**open the link in chrome or safari. for both safari and chrome, go to the share button and press add to home screen.**
+
+**(this will also enable the offline feature)** 
+
+# DISCLAIMER
+
+**this entire project was done with claude bc i don’t have a CLUE on how to code so you might find some bugs and if you do please email me at: angelkaled14@proton.me**
+
+**made by aker-nx**
