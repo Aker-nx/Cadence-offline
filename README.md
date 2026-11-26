@@ -13,6 +13,10 @@ Cadence is a fully offline music player that takes a mp3 file and puts it into y
 
 # Links:
 **the links i used to get the mp3 files are: https://spotimp3.com/ (this one needs an account but can download all songs) and: https://spottomp3.com/spotify-to-mp3 which doesn’t need an account but sometimes can’t download some songs.
+
+# My social media
+**tiktok account: www.tiktok.com/@aker.nx**
+
 # DISCLAIMER
 
 **this entire project was done with claude bc i don’t have a CLUE on how to code so you might find some bugs and if you do please email me at: angelkaled14@proton.me**
